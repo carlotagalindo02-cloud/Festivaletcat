@@ -317,9 +317,9 @@ nav ul li a,
 .background-line {
   position: absolute;
   left: 50%;
-  top: 190px;
+  top: 160px;
   transform: translateX(-50%);
-  width: 100% !important;
+  width: 95% !important;
   height: 1103px !important;
   object-fit: contain !important;
   object-position: center !important;

@@ -483,7 +483,7 @@ nav ul li a,
   gap: 20px;
   align-items: center;
   width: 120px;
-  margin-left: 320px;
+  margin-left: 300px;
 }
 
 .date {
@@ -600,8 +600,8 @@ nav ul li a,
 }
 
 .newsletter-right input {
-  width: 174%;
-  height: 40px;
+  width: 95%;
+  height: 50px;
   border: 1px solid var(--marro-fosc);
   border-radius: 8px;
   padding: 0 15px;
